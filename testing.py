@@ -4,3 +4,4 @@ def add(x, y):
 
 add(2, 3)
 print("This is a new feature")
+print("Feature 2")
